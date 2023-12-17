@@ -17,6 +17,13 @@ This method aims to increase payment security, minimize fraudulent activities, a
 # 🏛️ AWS Infrastructure
 ![rba](https://github.com/risk-based-authentication/.github/assets/61833677/b741e80e-2f18-4d72-89f4-5011d02e6639)
 
+## 💻 Technical Requirements
+
+- **Front-End:** `React.js`, `TypeScript`
+- **DevOps:** `Amazon Web Services (AWS) `, `AWS Lambda`, `AWS Step Functions`, `AWS SQS` , `AWS Secrets Manager` , `AWS DynamoDB`, `AWS IAM`
+
+
+  
 ### Contributors
 - [Zeynep Deniz](https://github.com/deniizeynep)
 - [Metehan Aydemir](https://github.com/Matthewsannn)
