@@ -20,7 +20,7 @@ This method aims to increase payment security, minimize fraudulent activities, a
 ## 💻 Technical Requirements
 
 - **Front-End:** `React.js`, `TypeScript`
-- **DevOps:** `Amazon Web Services (AWS) `, `AWS Lambda`, `AWS Step Functions`, `AWS SQS` , `AWS Secrets Manager` , `AWS DynamoDB`, `AWS IAM`
+- **DevOps:** `Amazon Web Services (AWS)`, `AWS Lambda`, `AWS Step Functions`, `AWS SQS`, `AWS Secrets Manager`, `AWS DynamoDB`, `AWS IAM`
 
 
   
